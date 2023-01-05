@@ -1,10 +1,5 @@
 """
-KTP ASSOCIATE Interview - 15 min presentation on how to solve a data science problem for the company in question.
-Most likely about their inventory system. Storing the correct amount from each product based on how popular it
-is in different stores. So the question is how many of each item to keep in stock? Base it on sales information -
-(per week, per month, per year for each of their products).
-
-Show progress by completing the confidence & Association rules by next Monday, then I can work alone.
+Confidence & Association rules
 Number of elements per subset is K and K is limited by the number of unique elements.
 """
 
