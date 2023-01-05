@@ -2,15 +2,6 @@
 Confidence & Association rules
 Number of elements per subset is K and K is limited by the number of unique elements.
 """
-
-# TODO:
-#######################################################################################################################
-#                                                                                                                     #
-
-#                                                                                                                     #
-#######################################################################################################################
-
-
 import os
 from itertools import combinations
 
